@@ -9,7 +9,7 @@ Additional fonts for D2GL's HD Text mode.
 
 [Antiqua SSK](https://eng.m.fontke.com/font/10000725/) was font used by **Sacred 2**.
 
-##Usage
+## Usage
 
 Check official D2GL [documentation here](https://github.com/bayaraa/d2gl/wiki/HD-Text)
 
